@@ -1,4 +1,4 @@
-# gpud
+# GPUD
 
 GPUD es un aplicativo creado para entornos web y basado en la herramienta [GPSTk](http://www.gpstk.org/bin/view/Documentation/WebHome). 
 
