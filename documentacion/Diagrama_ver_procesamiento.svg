@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="30cm" height="37cm" viewBox="139 -2879 583 724" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: #000000" cx="267.2" cy="-2772.45" rx="10" ry="10"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="580.2" cy="-2190.45" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="580.2" cy="-2190.45" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="580.2" cy="-2190.45" rx="10" ry="10"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="193.2" y="-2733.45" width="147.2" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="193.2" y="-2733.45" width="147.2" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="266.8" y="-2711.55">
+      <tspan x="266.8" y="-2711.55">Seleccionar opción </tspan>
+      <tspan x="266.8" y="-2695.55">Mis procesamientos</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="169.2" y="-2648.45" width="197.4" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="169.2" y="-2648.45" width="197.4" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="267.9" y="-2626.55">
+      <tspan x="267.9" y="-2626.55">Seleccionar opción Ver </tspan>
+      <tspan x="267.9" y="-2610.55">del procesamiento deseado</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="475.7" y="-2547.55" width="207.95" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="475.7" y="-2547.55" width="207.95" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="579.675" y="-2525.65">
+      <tspan x="579.675" y="-2525.65">Descomprimir archivo </tspan>
+      <tspan x="579.675" y="-2509.65">resultante del procesamiento</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="266.8" y1="-2681.45" x2="267.751" y2="-2652.92"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="262.495,-2660.51 267.826,-2650.68 272.49,-2660.85 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="267.2" y1="-2762.45" x2="266.862" y2="-2737.92"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="261.969,-2745.75 266.831,-2735.69 271.968,-2745.62 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="267.9,-2596.45 267.9,-2572 579.675,-2572 579.675,-2552.02 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="574.675,-2559.79 579.675,-2549.79 584.675,-2559.79 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="266.204" y="-2824.95">
+    <tspan x="266.204" y="-2824.95">Usuario</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="561.204" y="-2824.95">
+    <tspan x="561.204" y="-2824.95">Sistema</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="440.2" y="-2857.7">
+    <tspan x="440.2" y="-2857.7">DIAGRAMA DE ACTIVIDADES VER PROCESAMIENTO</tspan>
+  </text>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140.1" y="-2846.25" width="580" height="31"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140.2" y="-2877.35" width="580" height="31"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140.2" y="-2846.25" width="289.9" height="690.25"/>
+  <g>
+    <rect style="fill: #ffffff" x="466.1" y="-2453.6" width="227.8" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="466.1" y="-2453.6" width="227.8" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="580" y="-2431.7">
+      <tspan x="580" y="-2431.7">Leer información de los archivos</tspan>
+      <tspan x="580" y="-2415.7">out y model</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="499.1" y="-2359.6" width="162.55" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="499.1" y="-2359.6" width="162.55" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="580.375" y="-2337.7">
+      <tspan x="580.375" y="-2337.7">Organizar información</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="579.675,-2495.55 579.675,-2475.08 580,-2475.08 580,-2459.08 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="575,-2466.84 580,-2456.84 585,-2466.84 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="580,-2401.6 580,-2381.1 580.375,-2381.1 580.375,-2365.08 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="575.375,-2372.85 580.375,-2362.85 585.375,-2372.85 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="505.1" y="-2282.85" width="148.85" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="505.1" y="-2282.85" width="148.85" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="579.525" y="-2260.95">
+      <tspan x="579.525" y="-2260.95">Mostrar información</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="580.375,-2323.6 580.375,-2303.22 579.525,-2303.22 579.525,-2287.32 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="574.525,-2295.09 579.525,-2285.09 584.525,-2295.09 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="579.525,-2246.85 579.525,-2226.65 580.2,-2226.65 580.2,-2210.93 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="575.2,-2218.69 580.2,-2208.69 585.2,-2218.69 "/>
+  </g>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="430.1" y="-2814.6" width="289.9" height="658.6"/>
+</svg>

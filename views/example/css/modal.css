@@ -1,0 +1,17 @@
+.modal-header, h4, .close {
+	background-color: #3465a4;
+	color: #fff !important;
+	text-align: center;
+	font-size: 30px;
+}
+
+.modal-header, .modal-body {
+	padding: 30px 50px;
+}
+
+.modal-footer{
+	background-color: #3465a4;
+	color: #fff !important;
+	text-align: center;
+	font-size: 20px;
+}

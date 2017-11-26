@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="30cm" height="25cm" viewBox="139 61 583 482" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: #000000" cx="267.2" cy="167.8" rx="10" ry="10"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="568.2" cy="502.8" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="568.2" cy="502.8" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="568.2" cy="502.8" rx="10" ry="10"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="193.2" y="206.8" width="147.2" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="193.2" y="206.8" width="147.2" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="266.8" y="228.7">
+      <tspan x="266.8" y="228.7">Seleccionar opción </tspan>
+      <tspan x="266.8" y="244.7">Mis procesamientos</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="160.2" y="291.8" width="214.5" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160.2" y="291.8" width="214.5" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="267.45" y="313.7">
+      <tspan x="267.45" y="313.7">Seleccionar opción Descargar </tspan>
+      <tspan x="267.45" y="329.7">del procesamiento deseado</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="482.7" y="392.7" width="170.95" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="482.7" y="392.7" width="170.95" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="568.175" y="414.6">
+      <tspan x="568.175" y="414.6">Iniciar descarga </tspan>
+      <tspan x="568.175" y="430.6">del archivo comprimido</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="266.8" y1="258.8" x2="267.362" y2="287.329"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="262.21,279.665 267.406,289.564 272.208,279.468 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="267.2" y1="177.8" x2="266.862" y2="202.328"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="261.969,194.496 266.831,204.564 271.968,194.634 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="267.45,343.8 267.45,368.25 568.175,368.25 568.175,388.228 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="563.175,380.464 568.175,390.464 573.175,380.464 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="266.204" y="115.3">
+    <tspan x="266.204" y="115.3">Usuario</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="561.204" y="115.3">
+    <tspan x="561.204" y="115.3">Sistema</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="440.2" y="82.55">
+    <tspan x="440.2" y="82.55">DIAGRAMA DE ACTIVIDADES DESCARGAR PROCESAMIENTO</tspan>
+  </text>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140.1" y="94" width="580" height="31"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140.2" y="62.9" width="580" height="31"/>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="568.175,444.7 568.175,465.746 568.2,465.746 568.2,482.32 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="563.2,474.556 568.2,484.556 573.2,474.556 "/>
+  </g>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="430.1" y="93.65" width="289.9" height="448.5"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140.2" y="94" width="289.9" height="448.5"/>
+</svg>

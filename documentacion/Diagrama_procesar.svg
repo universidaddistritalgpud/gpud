@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="81cm" height="87cm" viewBox="-246 -712 1617 1726" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: #000000" cx="21.198" cy="-629.7" rx="10" ry="10"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="604.198" cy="978.3" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="604.198" cy="978.3" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="604.198" cy="978.3" rx="10" ry="10"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-54.802" y="-581.7" width="154" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-54.802" y="-581.7" width="154" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="22.198" y="-559.8">
+      <tspan x="22.198" y="-559.8">Cargar archivo Rinex</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="458.198" y="-426.7" width="243.85" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="458.198" y="-426.7" width="243.85" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="580.123" y="-404.8">
+      <tspan x="580.123" y="-404.8">Validación formato y contenido de</tspan>
+      <tspan x="580.123" y="-388.8">archivos Rinex y Cargas Oceánicas</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="560.198,-314.45 580.198,-334.45 600.198,-314.45 580.198,-294.45 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560.198,-314.45 580.198,-334.45 600.198,-314.45 580.198,-294.45 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="434.198" y="-326.95">
+    <tspan x="434.198" y="-326.95">[Archivos No Validos]</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="21.198" y1="-619.7" x2="22.0804" y2="-586.171"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="16.8778,-593.8 22.1392,-583.935 26.8744,-594.063 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="589.198" y="-270.95">
+    <tspan x="589.198" y="-270.95">[Archivos Validos]</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="580.123,-374.7 580.123,-354.575 580.198,-354.575 580.198,-338.922 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="575.198,-346.686 580.198,-336.686 585.198,-346.686 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="473.702" y="-252.55" width="212.55" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="473.702" y="-252.55" width="212.55" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="579.977" y="-230.65">
+      <tspan x="579.977" y="-230.65">Activación de opción procesar</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="579.977,-216.55 579.977,-196.275 8.45,-196.275 8.45,-180.472 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3.45,-188.236 8.45,-178.236 13.45,-188.236 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-91.8" y="-176" width="200.5" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-91.8" y="-176" width="200.5" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="8.45" y="-154.1">
+      <tspan x="8.45" y="-154.1">Seleccionar opción procesar</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="580.254,248.35 600.254,228.35 620.254,248.35 600.254,268.35 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="580.254,248.35 600.254,228.35 620.254,248.35 600.254,268.35 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="506.754" y="136.25" width="185.9" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="506.754" y="136.25" width="185.9" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="599.704" y="158.15">
+      <tspan x="599.704" y="158.15">Descargar Información de</tspan>
+      <tspan x="599.704" y="174.15">cargas oceánicas</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="599.704,188.25 599.704,208.3 600.254,208.3 600.254,223.878 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="595.254,216.114 600.254,226.114 605.254,216.114 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="600.254,268.35 600.254,288.425 600.304,288.425 600.304,304.028 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="595.304,296.264 600.304,306.264 605.304,296.264 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="502.754" y="308.5" width="195.1" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="502.754" y="308.5" width="195.1" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="600.304" y="330.4">
+      <tspan x="600.304" y="330.4">Configurar archivo PPPConf</tspan>
+    </text>
+  </g>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-244.9" y="-710.85" width="1614.1" height="31"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-244.9" y="-679.85" width="1614.1" height="31"/>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="563.1" y="-658.95">
+    <tspan x="563.1" y="-658.95">Sistema</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="-5.9" y="-658.95">
+    <tspan x="-5.9" y="-658.95">Usuario</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="562.151" y="-692.35">
+    <tspan x="562.151" y="-692.35">DIAGRAMA DE ACTIVIDADES PROCESAR</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="-98.9" y="-397.1" width="218.1" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-98.9" y="-397.1" width="218.1" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="10.15" y="-375.2">
+      <tspan x="10.15" y="-375.2">Cargar archivos con formato y </tspan>
+      <tspan x="10.15" y="-359.2">contenido valido</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560.198,-314.45 10.15,-314.45 10.15,-340.628 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="15.15,-332.864 10.15,-342.864 5.15,-332.864 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-94.9" y="-504.6" width="232.8" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-94.9" y="-504.6" width="232.8" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="21.5" y="-482.7">
+      <tspan x="21.5" y="-482.7">Cargar archivo Cargas Oceánicas</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="22.198,-545.7 22.198,-525.655 21.5,-525.655 21.5,-510.081 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="16.5,-517.845 21.5,-507.845 26.5,-517.845 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="21.5,-468.6 21.5,-448.153 580.123,-448.153 580.123,-432.179 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="575.123,-439.943 580.123,-429.943 585.123,-439.943 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="10.15,-397.1 10.15,-423.55 92,-423.55 92,-445.528 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="97,-437.764 92,-447.764 87,-437.764 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="580.198,-294.45 580.198,-274.005 579.977,-274.005 579.977,-258.031 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="574.977,-265.795 579.977,-255.795 584.977,-265.795 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="480.1" y="-99.35" width="239.55" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480.1" y="-99.35" width="239.55" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="599.875" y="-77.45">
+      <tspan x="599.875" y="-77.45">Descargar archivos de efemérides</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="8.45,-140 8.45,-119.675 599.875,-119.675 599.875,-103.822 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="594.875,-111.586 599.875,-101.586 604.875,-111.586 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="579.514,-3.18577 599.514,-23.1858 619.514,-3.18577 599.514,16.8142 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="579.514,-3.18577 599.514,-23.1858 619.514,-3.18577 599.514,16.8142 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="599.875,-63.35 599.875,-43.2679 599.514,-43.2679 599.514,-27.6579 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="594.514,-35.4218 599.514,-25.4218 604.514,-35.4218 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="468.1" y="57.4" width="263.9" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="468.1" y="57.4" width="263.9" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="600.05" y="79.3">
+      <tspan x="600.05" y="79.3">Descomprimir archivos de efemérides</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="599.514,16.8142 599.514,37.1071 600.05,37.1071 600.05,52.9279 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="595.05,45.1639 600.05,55.1639 605.05,45.1639 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="344.1" y="-19.6" width="103.95" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="344.1" y="-19.6" width="103.95" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="396.075" y="2.3">
+      <tspan x="396.075" y="2.3">Mostrar error</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="607.1" y="37.8">
+    <tspan x="607.1" y="37.8">[Descarga Correcta]</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="584,-2 516.025,-2 516.025,-1.6 452.522,-1.6 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="460.286,-6.6 450.286,-1.6 460.286,3.4 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="464.1" y="-9.2">
+    <tspan x="464.1" y="-9.2">[Descarga Fallida]</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="600.05,93.4 600.05,114.322 599.704,114.322 599.704,130.771 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="594.704,123.007 599.704,133.007 604.704,123.007 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="607.1" y="287.55">
+    <tspan x="607.1" y="287.55">[Descarga Correcta]</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="340.1" y="230.05" width="103.95" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340.1" y="230.05" width="103.95" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="392.075" y="251.95">
+      <tspan x="392.075" y="251.95">Mostrar error</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="580.254,248.35 512.152,248.35 512.152,248.05 448.522,248.05 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="456.286,243.05 446.286,248.05 456.286,253.05 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="462.1" y="240.45">
+    <tspan x="462.1" y="240.45">[Descarga Fallida]</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="600.304,344.5 600.304,364.525 600,364.525 600,380.078 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="595,372.314 600,382.314 605,372.314 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="541.1" y="384.55" width="117.8" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="541.1" y="384.55" width="117.8" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="600" y="406.45">
+      <tspan x="600" y="406.45">Ejecutar GPSTk</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="579.514,493.564 599.514,473.564 619.514,493.564 599.514,513.564 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="579.514,493.564 599.514,473.564 619.514,493.564 599.514,513.564 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="600" y1="420.55" x2="599.555" y2="469.092"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="594.627,461.283 599.535,471.328 604.626,461.374 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="579.514,493.564 340.204,493.564 340.204,447.057 595.285,447.057 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="587.521,452.057 597.521,447.057 587.521,442.057 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="342.1" y="485.05">
+    <tspan x="342.1" y="485.05">[Procesamiento GPSTk No Finalizado]</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="608.1" y="536.05">
+    <tspan x="608.1" y="536.05">[Procesamiento GPSTk Finalizado]</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="599.514,513.564 599.514,534.357 600.225,534.357 600.225,550.678 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="595.225,542.914 600.225,552.914 605.225,542.914 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="507.1" y="555.15" width="186.25" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="507.1" y="555.15" width="186.25" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="600.225" y="577.05">
+      <tspan x="600.225" y="577.05">Leer archivos out y model</tspan>
+      <tspan x="600.225" y="593.05">generados por GPSTk</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="518.1" y="649.15" width="162.8" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="518.1" y="649.15" width="162.8" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="599.5" y="671.05">
+      <tspan x="599.5" y="671.05">Organizar Información</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="600.225,607.15 600.225,627.645 599.5,627.645 599.5,643.669 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="594.5,635.905 599.5,645.905 604.5,635.905 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="537.1" y="727.15" width="125.6" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="537.1" y="727.15" width="125.6" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="599.9" y="749.05">
+      <tspan x="599.9" y="749.05">Generar informe</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="535.2" y="805.05" width="128.6" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="535.2" y="805.05" width="128.6" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="599.5" y="826.95">
+      <tspan x="599.5" y="826.95">Generar skyplots</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="599.5,685.15 599.5,705.645 599.9,705.645 599.9,721.669 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="594.9,713.905 599.9,723.905 604.9,713.905 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="599.9,763.15 599.9,783.595 599.5,783.595 599.5,799.569 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="594.5,791.805 599.5,801.805 604.5,791.805 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="986.3" y="513.95" width="295.1" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="986.3" y="513.95" width="295.1" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1133.85" y="535.85">
+      <tspan x="1133.85" y="535.85">Iniciar procesamiento por metodología PPP</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1060.1" y="592.4" width="148.15" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1060.1" y="592.4" width="148.15" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1134.18" y="614.3">
+      <tspan x="1134.18" y="614.3">Generar archivo out</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1050.2" y="671.3" width="167.1" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1050.2" y="671.3" width="167.1" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1133.75" y="693.2">
+      <tspan x="1133.75" y="693.2">Generar archivo model</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1056.1" y="436.4" width="155.55" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1056.1" y="436.4" width="155.55" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1133.88" y="458.3">
+      <tspan x="1133.88" y="458.3">Leer archivo PPPConf</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="658.9,402.55 1133.88,402.55 1133.88,431.928 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1128.88,424.164 1133.88,434.164 1138.88,424.164 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1133.88,472.4 1133.88,492.67 1133.85,492.67 1133.85,508.469 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1128.85,500.705 1133.85,510.705 1138.85,500.705 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1133.85,550.959 1133.85,571.175 1134.18,571.175 1134.18,586.919 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1129.18,579.155 1134.18,589.155 1139.18,579.155 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1134.18,629.409 1134.18,649.85 1133.75,649.85 1133.75,665.819 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1128.75,658.055 1133.75,668.055 1138.75,658.055 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="531.1" y="884.65" width="145.1" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="531.1" y="884.65" width="145.1" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="603.65" y="906.55">
+      <tspan x="603.65" y="906.55">Comprimir archivos</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="604,842.75 604,863.195 603.65,863.195 603.65,879.169 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="598.65,871.405 603.65,881.405 608.65,871.405 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="603.65,921.659 603.65,941.976 604.198,941.976 604.198,957.82 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="599.198,950.056 604.198,960.056 609.198,950.056 "/>
+  </g>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-244.9" y="-679.85" width="538" height="1692.35"/>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1102.3" y="-660.2">
+    <tspan x="1102.3" y="-660.2">GPSTk</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="344.1,-1.6 314.1,-1.6 314.1,978.3 583.718,978.3 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="575.954,983.3 585.954,978.3 575.954,973.3 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="340.1" y1="248.05" x2="317.672" y2="249.051"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="325.205,243.71 315.438,249.15 325.651,253.7 "/>
+  </g>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="831.2" y="-680.45" width="538" height="1691.95"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="293.024" y="-680.6" width="538" height="1693.1"/>
+</svg>

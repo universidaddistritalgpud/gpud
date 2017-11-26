@@ -1,0 +1,20 @@
+
+Program AZELPLOT (forking cf2sky Version 17 December 2003, edits R. Grapenthin, since July 2011)
+
+Version 2015-10-02
+
+Use GMT5? 0
+Input file: /var/www/html/tesisPPP/files/24ada0/Process/BOGA.inp
+2017 9 30 16 0 0
+2017 9 30 23 59 45
+/var/www/html/tesisPPP/files/24ada0/Ephemeris/ngs19685.sp3
+Title: SKYPLOT BOGA
+Cutoff Angle: 15.000
+Rinex Obs File: /var/www/html/tesisPPP/files/24ada0/Rinex/BOGA2730.17O
+TEQC File: /var/www/html/tesisPPP/files/24ada0/Rinex/BOGA2730.mp1
+
+Approx XYZ:      1744518.6660     -6116054.1664       512580.5695
+
+Error! Cannot open file: /var/www/html/tesisPPP/files/24ada0/Rinex/BOGA2730.mp1
+Now terminating Program AZELPLOT.
+

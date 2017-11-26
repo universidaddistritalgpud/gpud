@@ -1,0 +1,76 @@
+$$ Ocean loading displacement
+$$
+$$ Calculated on holt using olfg/olmpp of H.-G. Scherneck
+$$
+$$ COLUMN ORDER:  M2  S2  N2  K2  K1  O1  P1  Q1  MF  MM SSA
+$$
+$$ ROW ORDER:
+$$ AMPLITUDES (m)
+$$   RADIAL
+$$   TANGENTL    EW
+$$   TANGENTL    NS
+$$ PHASES (degrees)
+$$   RADIAL
+$$   TANGENTL    EW
+$$   TANGENTL    NS
+$$
+$$ Displacement is defined positive in upwards, South and West direction.
+$$ The phase lag is relative to Greenwich and lags positive. The
+$$ Gutenberg-Bullen Greens function is used. In the ocean tide model the
+$$ deficit of tidal water mass has been corrected by subtracting a uniform
+$$ layer of water with a certain phase lag globally.
+$$
+$$ Complete <model name> : No interpolation of ocean model was necessary
+$$ <model name>_PP       : Ocean model has been interpolated near the station
+$$                         (PP = Post-Processing)
+$$
+$$ Ocean tide model: FES2004
+$$
+$$ END HEADER
+$$
+  boga
+$$ Complete FES2004
+$$ Computed by OLFG, H.-G. Scherneck, Onsala Space Observatory 2017-Mar- 8
+$$ boga,                      RADI TANG  lon/lat:  285.9200    4.6387 2610.019
+  .01257 .00389 .00268 .00094 .00129 .00036 .00043 .00022 .00070 .00039 .00033
+  .00220 .00053 .00049 .00010 .00086 .00038 .00028 .00002 .00007 .00004 .00004
+  .00059 .00036 .00017 .00010 .00058 .00020 .00019 .00003 .00011 .00005 .00003
+    70.5  108.5   45.2  104.6 -112.4    9.8 -111.9    6.2 -170.1 -173.8 -178.7
+  -115.3  -54.5 -156.2  -54.5   64.0   57.6   64.0   60.9   74.9   37.6    6.9
+  -137.5 -116.8 -123.0 -119.4   51.0   26.1   50.7  -48.1  172.7  169.2  176.3
+$$
+  vivi
+$$ Complete FES2004
+$$ Computed by OLFG, H.-G. Scherneck, Onsala Space Observatory 2017-Mar- 8
+$$ vivi,                      RADI TANG  lon/lat:  286.4160    4.0747  407.271
+  .01201 .00374 .00258 .00091 .00130 .00031 .00043 .00021 .00069 .00038 .00032
+  .00184 .00045 .00041 .00008 .00085 .00038 .00028 .00002 .00007 .00004 .00004
+  .00040 .00032 .00013 .00009 .00055 .00020 .00018 .00003 .00011 .00005 .00003
+    70.4  107.1   45.9  103.0 -114.5   10.7 -114.1    6.0 -169.9 -173.7 -178.7
+  -113.5  -51.5 -156.3  -49.0   63.0   54.2   63.0   48.2   78.4   39.6    7.2
+  -148.1 -123.8 -115.0 -124.7   52.1   28.0   51.8  -44.3  173.0  169.6  176.4
+$$
+  cali
+$$ FES2004_PP ID: 2017-03-08 17:59:05
+$$ Computed by OLMPP by H G Scherneck, Onsala Space Observatory, 2017
+$$ cali,                      RADI TANG  lon/lat:  283.4674    3.3758 1027.496
+  .01874 .00562 .00396 .00136 .00227 .00020 .00075 .00020 .00077 .00043 .00037
+  .00499 .00129 .00108 .00029 .00109 .00041 .00036 .00003 .00010 .00007 .00006
+  .00076 .00029 .00019 .00008 .00053 .00022 .00018 .00004 .00011 .00005 .00003
+    69.7  112.3   41.8  107.6 -120.6  -71.4 -120.4    3.8 -167.9 -172.6 -178.5
+  -115.1  -62.5 -150.4  -68.6   63.0   63.8   63.1  116.6   54.9   28.1    5.4
+    62.0 -164.9  -13.9 -157.6   45.8    8.7   45.4  -48.3  173.6  170.1  176.8
+$$
+  mede
+$$ FES2004_PP ID: 2017-03-08 17:59:11
+$$ Computed by OLMPP by H G Scherneck, Onsala Space Observatory, 2017
+$$ mede,                      RADI TANG  lon/lat:  284.4211    6.1994 1553.421
+  .01501 .00454 .00316 .00109 .00131 .00051 .00043 .00027 .00077 .00042 .00036
+  .00352 .00083 .00077 .00017 .00091 .00040 .00030 .00003 .00008 .00005 .00005
+  .00158 .00059 .00038 .00017 .00073 .00024 .00024 .00003 .00011 .00005 .00003
+    70.2  112.6   42.4  109.4 -106.3    7.5 -105.7    6.7 -170.5 -174.2 -178.8
+  -117.9  -59.4 -155.4  -62.5   66.9   67.7   67.0   96.0   64.0   32.3    5.9
+  -123.1  -96.7 -135.3 -104.9   49.7   25.9   49.4  -54.4  170.5  167.1  175.4
+$$ END TABLE
+Errors:
+Warnings:

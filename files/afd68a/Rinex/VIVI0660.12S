@@ -1,0 +1,240 @@
+version: teqc  2007Feb5
+
+ SV+|--------|--------|--------|--------|--------|--------|--------|--------+ SV
+ 22|Ic                                                   IooooooooooooooooII| 22
+ 14|oIIII                                            Ioooooooooooooooooooooo| 14
+ 30|oooIIIIIIc                                                LIoooooooooooo| 30
+ 31|ooooooIIIII                                          Ioooooooooooooooooo| 31
+  6|oooooooooIII                                                  oIIIoooooo|  6
+ 16|ooooooIIIIoIIM                                               MIooooooooo| 16
+  3|ooooooooooIIIM                                                   IIooooo|  3
+ 19|ooooooooooooooIIIM                                                    Io| 19
+ 11|MIIIoooooooooooooooIIM2                                                 | 11
+ 32|ooooooooooo1IIIIIIIIo1IMI                                       MIoooooo| 32
+ 20|oooooooooooooooIMIooooooooIIL                                        Ioo| 20
+ 23|IooooooooooooooooIIIMLI-MIIcMII                                         | 23
+ 13|    IooooooooooooooIoIIMIIIIIIIIIIIM                                    | 13
+  1|     IooooooooooooooooIIo                                               |  1
+  7|         oooooooooooooooo1II                                            |  7
+ 17|           cIooooooooooooooooooooooooIII                                | 17
+  8|            IoooooooooooooooIIIM                                        |  8
+ 28|                1IooooooooooooooooIIc                                   | 28
+  4|                 oIooooooooooooooooooooooIIIIML                         |  4
+ 10|                   cIooooooooooooooooIMc                                | 10
+  2|                      ooooooooooooooooooooooooIIIII                     |  2
+ 27|                         cIIIooI-cIIIIIoooIoooooooooooIL                | 27
+  5|                          MoooooooooooooooooooIIIIcM-M                  |  5
+  9|                            LIII    I1IIIoooooooooooooooIII             |  9
+ 26|                              IIoooooooooooooooIIM                      | 26
+ 12|                              IIoooooooooooooooIIIIIIooooooooII         | 12
+ 15|                                  IIooooooooooooooooIIIIII              | 15
+ 25|                                    IoooooooIIIoIoIoooIooooooooooIIM    | 25
+ 29|                                       oooooooooooooooooIIIIIIIIIIIIIIM | 29
+ 18|                                         IIIooooooooooooooooooooIIIc    | 18
+ 21|                                             IIoIooooooooooooIIIL       | 21
+Obs|bcbbcccccccbcbaabcbccbcbabcbabab9abbbbbbabbbbbcbbbaa9bbbaa999aa9abbb9aba|Obs
+Clk|                                                                        |Clk
+   +|--------|--------|--------|--------|--------|--------|--------|--------+   
+00:00:00.000                                                        23:59:45.000
+2012 Mar  6                                                          2012 Mar  6
+
+*********************
+QC of RINEX  file(s) : /var/www/html/tesisPPP/files/afd68a/Rinex/VIVI0660.12O
+*********************
+
+4-character ID          : VIVI (# = 41931S001)
+Receiver type           : LEICA GRX1200 (# = 454315) (fw = 4.10/2.125)
+Antenna type            : LEIAT504        LEIS (# = 102829)
+
+Time of start of window : 2012 Mar  6  00:00:00.000
+Time of  end  of window : 2012 Mar  6  23:59:45.000
+Time line window length : 24.00 hour(s), ticked every 3.0 hour(s)
+Observation interval    : 15.0000 seconds
+Total satellites w/ obs : 31
+NAVSTAR GPS SVs w/o OBS : 24 
+Rx tracking capability  : 12 SVs
+Poss. # of obs epochs   :   5760
+Epochs w/ observations  :   5760
+Complete observations   :  55218
+ Deleted observations   :    736
+Moving average MP1      : 0.936125 m
+Moving average MP2      : 1.090237 m
+Points in MP moving avg : 50
+No. of Rx clock offsets : 0
+Total Rx clock drift    :  0.000000 ms
+Rate of Rx clock drift  :  0.000 ms/hr
+Avg time between resets : Inf minute(s)
+Freq no. and timecode   : 2 11748 ffffff
+Report gap > than       : 10.00 minute(s)
+       but < than       : 90.00 minute(s)
+epochs w/ msec clk slip : 0
+other msec mp events    : 0 (: 1457)   {expect ~= 1:50}
+IOD signifying a slip   : >400.0 cm/minute
+IOD slips               :    748
+IOD or MP slips         :    858
+      first epoch    last epoch    hrs   dt  #expt  #have   %   mp1   mp2 o/slps
+SUM 12  3  6 00:00 12  3  6 23:59 24.00  15    n/a  55218 n/a  0.94  1.09     64
+
+
+
+Processing parameters are:
+Receiver tracking capability       : 12 SVs
+Maximum ionospheric rate (L1)      : 400.00 cm/min
+Report data gap greater than       : 10.00 min
+               but less than       : 90.00 min
+Expected rms level of P1 multipath : 50.00 cm
+Expected rms level of P2 multipath : 65.00 cm
+Multipath slip sigma threshold     : 4.00 cm
+% increase in MP rms for C/A | A/S : 100.00 %
+Points in MP moving averages       : 50
+Minimum signal to noise for L1     : 0
+Minimum signal to noise for L2     : 0
+Width of ASCII summary plot        : 72
+Data indicators on summary plot    : yes
+Do ionospheric observable          : yes
+Do ionospheric derivative          : yes
+Do high-pass ionosphere observable : no
+Do multipath observables           : yes
+Do 1-ms receiver clock slips       : yes
+Tolerance for 1-ms clock slips     : 1.00e-02 ms
+Do receiver LLI slips              : yes
+Do plot file(s)                    : yes
+
+Observations start   : 2012 Mar  6 00:00:00.000
+Observations  end    : 2012 Mar  6 23:59:45.000
+Observation interval : 15.0000 second(s)
+
+ SV  #+hor <ele> #+mask <ele> #reprt #compl    L1     L2     P1     P2     CA
+--- ------ ----- ------ ----- ------ ------ ------ ------ ------ ------ ------
+G 3*     0  0.00      0  0.00   1477   1463   1477   1463      0   1463   1477
+G 6*     0  0.00      0  0.00   1450   1435   1450   1435      0   1435   1450
+G14*     0  0.00      0  0.00   2102   2089   2102   2089      0   2089   2102
+G16*     0  0.00      0  0.00   1753   1714   1753   1714      0   1714   1753
+G19*     0  0.00      0  0.00   1469   1452   1469   1452      0   1452   1469
+G20*     0  0.00      0  0.00   2381   2368   2381   2368      0   2368   2381
+G30*     0  0.00      0  0.00   1604   1596   1604   1596      0   1596   1604
+G31*     0  0.00      0  0.00   2152   2141   2152   2141      0   2141   2152
+G32*     0  0.00      0  0.00   2312   2294   2312   2294      0   2294   2312
+G22*     0  0.00      0  0.00   1513   1509   1513   1509      0   1509   1513
+G11*     0  0.00      0  0.00   1559   1528   1559   1528      0   1528   1559
+G23*     0  0.00      0  0.00   1665   1562   1665   1562      0   1562   1665
+G13*     0  0.00      0  0.00   2143   1993   2143   1993      0   1993   2143
+G 1*     0  0.00      0  0.00   1411   1403   1411   1403      0   1403   1411
+G 7*     0  0.00      0  0.00   1359   1345   1359   1345      0   1345   1359
+G17*     0  0.00      0  0.00   2173   2162   2173   2162      0   2162   2173
+G 8*     0  0.00      0  0.00   1406   1391   1406   1391      0   1391   1406
+G28*     0  0.00      0  0.00   1482   1461   1482   1461      0   1461   1482
+G 4*     0  0.00      0  0.00   2084   2059   2084   2059      0   2059   2084
+G10*     0  0.00      0  0.00   1458   1434   1458   1434      0   1434   1458
+G 2*     0  0.00      0  0.00   2148   2141   2148   2141      0   2141   2148
+G27*     0  0.00      0  0.00   2004   1988   2004   1988      0   1988   2004
+G 5*     0  0.00      0  0.00   1838   1827   1838   1827      0   1827   1838
+G 9*     0  0.00      0  0.00   1690   1627   1690   1627      0   1627   1690
+G26*     0  0.00      0  0.00   1429   1426   1429   1426      0   1426   1429
+G12*     0  0.00      0  0.00   2425   2418   2425   2418      0   2418   2425
+G15*     0  0.00      0  0.00   1666   1661   1666   1661      0   1661   1666
+G25*     0  0.00      0  0.00   2330   2325   2330   2325      0   2325   2330
+G29*     0  0.00      0  0.00   2038   2011   2038   2011      0   2011   2038
+G18*     0  0.00      0  0.00   2018   1996   2018   1996      0   1996   2018
+G21*     0  0.00      0  0.00   1415   1399   1415   1399      0   1399   1415
+   * = SV with no NAV info
+Obs            w/ no L1       :      0
+Obs            w/ no L2       :    736
+Obs            w/ no P1 | CA  :      0
+Obs            w/ no P2       :    736
+Obs            w/ low L1 S/N  :      0
+Obs            w/ low L2 S/N  :      0
+
+Obs reported w/ code | phase :  55954
+Obs deleted (any reason)     :    736
+Obs complete                 :  55218
+
+No. of Rx clock offsets : 0
+Total Rx clock drift    :  0.000000 ms
+Rate of Rx clock drift  :  0.000000 ms/hr
+
+MP1 RMS summary (per SV):
+
+                                      slips  L1 rx  L2 rx
+ SV    obs   # del <elev> MP1 rms [m]  all    all    all
+G 3*  1477     14    0.00  0.496229     19      3      1
+G 6*  1450     15    0.00  0.625223     22      2      3
+G14*  2102     13    0.00  0.454392     17      1      1
+G16*  1753     39    0.00  1.190940     25      3      2
+G19*  1469     17    0.00  0.566886     21      1      1
+G20*  2381     13    0.00  0.690514     18      3      4
+G30*  1604      8    0.00  2.511604     23      2      2
+G31*  2152     11    0.00  1.018735     47      1      7
+G32*  2312     18    0.00  0.736975     45      3      5
+G22*  1513      4    0.00  0.656439     11      4      2
+G11*  1559     31    0.00  0.624638     16      0      1
+G23*  1665    103    0.00  0.866478     26      4      5
+G13*  2143    150    0.00  0.735375     51      4     11
+G 1*  1411      8    0.00  0.510110     14      2      2
+G 7*  1359     14    0.00  0.460095      4      1      2
+G17*  2173     11    0.00  0.631958     11      0      1
+G 8*  1406     15    0.00  0.448292     11      1      2
+G28*  1482     21    0.00  0.529364     10      0      0
+G 4*  2084     25    0.00  0.570346     25      6      4
+G10*  1458     24    0.00  0.449628      6      1      0
+G 2*  2148      7    0.00  1.295989      9      2      0
+G27*  2004     16    0.00  0.891773     35      3      2
+G 5*  1838     11    0.00  0.745951     13      1      1
+G 9*  1690     63    0.00  1.256425     22      4      2
+G26*  1429      3    0.00  0.520637     16      0      1
+G12*  2425      7    0.00  1.919791     37      3      5
+G15*  1666      5    0.00  1.272168     32      3      2
+G25*  2330      5    0.00  0.574471     31      0      2
+G29*  2038     27    0.00  3.005583     44      7      9
+G18*  2018     22    0.00  1.256678     13      2      2
+G21*  1415     16    0.00  0.512846     24      3      1
+   * = SV with no NAV info
+
+mean MP1 rms         :  0.936125 m
+# MP1 obs            :  55218
+# MP1 slips          :    698
+# Rvr L1 slips       :     70
+# Rvr L2 slips       :     83
+
+MP2 RMS summary (per SV):
+
+                                      slips  L1 rx  L2 rx
+ SV    obs   # del <elev> MP2 rms [m]  all    all    all
+G 3*  1477     14    0.00  2.625267      8      3      1
+G 6*  1450     15    0.00  1.471556     18      2      3
+G14*  2102     13    0.00  0.472868     19      1      1
+G16*  1753     39    0.00  0.863383     34      3      2
+G19*  1469     17    0.00  0.771087     21      1      1
+G20*  2381     13    0.00  0.703509     19      3      4
+G30*  1604      8    0.00  3.723913     17      2      2
+G31*  2152     11    0.00  1.314805     49      1      7
+G32*  2312     18    0.00  1.194680     44      3      5
+G22*  1513      4    0.00  0.707966     15      4      2
+G11*  1559     31    0.00  0.713330     17      0      1
+G23*  1665    103    0.00  0.725451     35      4      5
+G13*  2143    150    0.00  1.153428     59      4     11
+G 1*  1411      8    0.00  0.516937     14      2      2
+G 7*  1359     14    0.00  0.439594      3      1      2
+G17*  2173     11    0.00  0.567472     14      0      1
+G 8*  1406     15    0.00  0.426897     12      1      2
+G28*  1482     21    0.00  0.608436     11      0      0
+G 4*  2084     25    0.00  0.810201     23      6      4
+G10*  1458     24    0.00  0.793692      5      1      0
+G 2*  2148      7    0.00  0.557661     22      2      0
+G27*  2004     16    0.00  0.903687     35      3      2
+G 5*  1838     11    0.00  1.005520     13      1      1
+G 9*  1690     63    0.00  2.121711     24      4      2
+G26*  1429      3    0.00  0.703852     20      0      1
+G12*  2425      7    0.00  1.058556     43      3      5
+G15*  1666      5    0.00  0.650360     40      3      2
+G25*  2330      5    0.00  0.833288     32      0      2
+G29*  2038     27    0.00  3.973209     48      7      9
+G18*  2018     22    0.00  0.578720     19      2      2
+G21*  1415     16    0.00  0.763128     26      3      1
+   * = SV with no NAV info
+
+mean MP2 rms         :  1.090237 m
+# MP2 obs            :  55218
+# MP2 slips          :    759
+# Rvr L1 slips       :     70
+# Rvr L2 slips       :     83

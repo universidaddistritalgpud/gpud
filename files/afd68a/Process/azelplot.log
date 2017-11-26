@@ -1,0 +1,26 @@
+
+Program AZELPLOT (forking cf2sky Version 17 December 2003, edits R. Grapenthin, since July 2011)
+
+Version 2015-10-02
+
+Use GMT5? 0
+Input file: /var/www/html/tesisPPP/files/afd68a/Process/VIVI.inp
+2012 3 6 16 0 0
+2012 3 6 23 59 45
+/var/www/html/tesisPPP/files/afd68a/Ephemeris/ngs16782.sp3
+Title: SKYPLOT VIVI
+Cutoff Angle: 15.000
+Rinex Obs File: /var/www/html/tesisPPP/files/afd68a/Rinex/VIVI0660.12O
+TEQC File: /var/www/html/tesisPPP/files/afd68a/Rinex/VIVI0660.mp1
+
+Approx XYZ:      1798110.3696     -6103161.0175       450212.6578
+
+
+Now reading the TEQC plot file...
+
+
+
+Finished writing azimuth/elevation 
+
+
+Normal Termination 

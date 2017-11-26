@@ -1,0 +1,34 @@
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+
+
+/* Set gray background color and 100% height */
+.sidenav {
+	padding-top: 20px;
+	background-color: #208af0;
+	opacity: 0.85;
+	height: 100%;
+}
+
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+	.sidenav {
+		height: auto;
+		padding: 0px;
+	}
+	.row.content {
+		height: auto;
+	}
+}
+
+label {
+	color: white !important;
+	
+}
+body {
+  background-image: url("../img/satellite-1030779_1920.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%; 
+  background-size: cover; 
+}
+ 

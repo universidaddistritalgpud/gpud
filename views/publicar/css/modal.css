@@ -1,0 +1,28 @@
+.modal-header, h4, .close {
+	background-color: #3465a4;
+	color: #fff !important;
+	text-align: center;
+	font-size: 30px;
+}
+
+.modal-header, .modal-body {
+	padding: 10px 10px;
+}
+
+.modal-footer{
+	background-color: #3465a4;
+	color: #fff !important;
+	text-align: center;
+	font-size: 20px;
+}
+
+.modal-footer
+{
+    border-radius: 0 0 4px 4px;
+}
+
+	
+.modal{
+    height: 500px;
+    top: calc(50% - 200px) !important;
+}

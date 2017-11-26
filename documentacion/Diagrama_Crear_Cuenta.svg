@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="30cm" height="34cm" viewBox="139 39 583 661" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="430.1" y="60.8">
+    <tspan x="430.1" y="60.8">DIAGRAMA DE ACTIVIDADES CREAR CUENTA</tspan>
+  </text>
+  <ellipse style="fill: #000000" cx="295.198" cy="128.3" rx="10" ry="10"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="295.198" cy="670.3" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="295.198" cy="670.3" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="295.198" cy="670.3" rx="10" ry="10"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="184.198" y="175.3" width="221.75" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="184.198" y="175.3" width="221.75" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="295.073" y="197.2">
+      <tspan x="295.073" y="197.2">Diligenciar los datos solicitados</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="535.198" y="252.3" width="124.8" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="535.198" y="252.3" width="124.8" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="597.598" y="274.2">
+      <tspan x="597.598" y="274.2">Validación datos</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="578.198,348.55 598.198,328.55 618.198,348.55 598.198,368.55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="578.198,348.55 598.198,328.55 618.198,348.55 598.198,368.55 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="458.198" y="341.05">
+    <tspan x="458.198" y="341.05">[Datos No Validos]</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="295.198" y1="138.3" x2="295.088" y2="170.828"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="290.114,163.047 295.081,173.064 300.114,163.081 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="604.198" y="388.05">
+    <tspan x="604.198" y="388.05">[Datos Validos]</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="295.073,211.3 295.073,231.8 597.598,231.8 597.598,247.828 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="592.598,240.064 597.598,250.064 602.598,240.064 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="597.598,288.3 597.598,308.425 598.198,308.425 598.198,324.078 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="593.198,316.314 598.198,326.314 603.198,316.314 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="496.702" y="486.45" width="201.8" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="496.702" y="486.45" width="201.8" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="597.602" y="508.35">
+      <tspan x="597.602" y="508.35">Enviar token de activación a</tspan>
+      <tspan x="597.602" y="524.35"> correo electrónico</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="597.602,538.45 597.602,558.725 294.65,558.725 294.65,574.528 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="289.65,566.764 294.65,576.764 299.65,566.764 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="238.2" y="579" width="112.9" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="238.2" y="579" width="112.9" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="294.65" y="600.9">
+      <tspan x="294.65" y="600.9">Activar cuenta</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="294.65,615 294.65,635.15 295.198,635.15 295.198,650.828 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="290.198,643.064 295.198,653.064 300.198,643.064 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="239.552" y="281.75" width="111.2" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="239.552" y="281.75" width="111.2" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="295.152" y="303.65">
+      <tspan x="295.152" y="303.65">Corregir datos</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="578.198,348.55 295.152,348.55 295.152,322.222 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="300.152,329.986 295.152,319.986 290.152,329.986 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="295.152,281.75 295.152,256 481,256 481,234.722 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="486,242.486 481,232.486 476,242.486 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="533.552" y="410" width="129.35" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="533.552" y="410" width="129.35" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="598.227" y="431.9">
+      <tspan x="598.227" y="431.9">Registrar usuario</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="598.198,368.55 598.198,388.77 598.227,388.77 598.227,404.519 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="593.227,396.755 598.227,406.755 603.227,396.755 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="598.227,446 598.227,466.225 597.602,466.225 597.602,481.978 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="592.602,474.214 597.602,484.214 602.602,474.214 "/>
+  </g>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="430.1" y="71.5" width="289.9" height="627.75"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140.2" y="40.65" width="580" height="31"/>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="272.1" y="92.3">
+    <tspan x="272.1" y="92.3">Usuario</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="553.1" y="91.3">
+    <tspan x="553.1" y="91.3">Sistema</tspan>
+  </text>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140.1" y="71.4" width="289.9" height="627.5"/>
+</svg>
