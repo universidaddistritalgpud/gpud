@@ -27,4 +27,4 @@ Descargar el proyecto gpud en la ubicación del servidor en el equipo local (/va
 
 ## Licencia
 
-Este proyecto esta bajo licencial GNU/LGPL - Ver el archivo [LICENSE.md](LICENSE.md) para mas detalles
+Este proyecto esta bajo licencial GNU/LGPL - Ver el archivo LICENSE.md para mas detalles
